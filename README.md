@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/CodeInError">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeInError&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeInError&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/prafulraut">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prafulraut&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prafulraut&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
